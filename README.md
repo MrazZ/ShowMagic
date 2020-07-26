@@ -1,2 +1,2 @@
 # everydayMagic
-record everyday practice
+record  my everyday practice.

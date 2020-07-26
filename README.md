@@ -1,0 +1,2 @@
+# everydayMagic
+record everyday practice

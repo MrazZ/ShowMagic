@@ -1,2 +1,2 @@
-# everydayMagic
+# ShowMagic
 record  my everyday practice.
